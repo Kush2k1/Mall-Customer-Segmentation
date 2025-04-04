@@ -1,4 +1,4 @@
-				Mall Customer Segmentation using K-Means Clustering
+					Mall Customer Segmentation
 
 
 Project Overview:
@@ -48,4 +48,4 @@ Standard Customers - Average spending habits
 
 Conclusion
 
-This project provides insights into customer behavior, helping businesses optimize marketing strategies and enhance customer experiences.
+This implementation provides insights into customer behavior, helping businesses optimize marketing strategies and enhance customer experiences.

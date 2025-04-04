@@ -1,0 +1,4 @@
+Abstract
+Customer segmentation is a critical task in marketing that allows businesses to target specific groups effectively. In this analysis, unsupervised learning is applied using K-Means Clustering to group customers based on their Annual Income and Spending Score. The dataset, which contains demographic and behavioral information of mall customers, is used to identify distinct clusters representing various customer types such as high-income spenders, budget-conscious shoppers, and low-engagement users. The Elbow Method is utilized to determine the optimal number of clusters.
+
+The resulting clusters enable businesses to implement personalized marketing strategies, improve customer satisfaction, and boost sales efficiency by tailoring services and offers to the needs of each segment.
