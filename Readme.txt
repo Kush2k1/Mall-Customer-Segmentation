@@ -32,6 +32,17 @@ customer_segments.png => Cluster visalization
 README.md => Project overview and instructions
 requirements.txt => Python libraries used
 
+
+
+Dataset: 
+
+CustomerID: Unique ID assigned to each customer.
+Gender: Gender of the customer (Male/Female).
+Age: Age of the customer.
+Annual Income (k$): Annual income of the customer in thousands of dollars.
+Spending Score (1-100): A score assigned by the mall based on customer behavior and spending habits. It ranges from 1 to 100.
+	Lower score: Less spending
+	Higher score: More spending
 	
 
 Results:
